@@ -1,1 +1,1 @@
-# ML-in-the-Web contains Machine Learning Applications to be shared in the Web
+# ML for www contains Machine Learning Applications to be shared in the Web
